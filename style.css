@@ -1,0 +1,9 @@
+img{
+    display: flex;
+    width: 35%;
+    height: 500px;
+    margin-bottom: 10%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30%;
+}
